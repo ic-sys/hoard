@@ -1,4 +1,10 @@
 {
+    "plugins": [
+        "theme-faq",
+        "-fontsettings",
+        "-sharing"
+    ]
+<!--
     "plugins": ["insert-logo-link"],
     "pluginsConfig": {
         "insert-logo-link": {
@@ -6,4 +12,5 @@
             "url": ""
         }
     }
+-->    
 }
