@@ -1,12 +1,2 @@
 {
-    "plugins": ["insert-logo-link"],
-    "pluginsConfig": {
-        "insert-logo-link": {
-        "src": "logo.png",
-        "url": ""
-        }
-    },
-    
-    "styles": { "website": "styles/website.css"}
-    
 }
