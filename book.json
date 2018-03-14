@@ -1,15 +1,10 @@
 {
-   "variables": {
-             "shlName": "曹妃甸职业技术学院"
-       } 
-
-       //添加插件
        "plugins": [
-        "theme-blue@1.0.13"
+        "theme-default"
     ],
     "pluginsConfig": {
-        "theme-blue": {
-            "url": "https://github.com/wanghaiyangithub/gitbook-plugin-theme-blue"
+        "theme-default": {
+            "url": "https://github.com/ThomasHagenJohansen/theme-default"
         }
     }
 }
