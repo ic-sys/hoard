@@ -1,13 +1,6 @@
 {
-    "plugins": [
-        "theme-corezoid"
-    ],
-    "variables": {
-        "themeCorezoid": {
-            "langs": [
-                "ru",
-                "en"
-            ]
-        }
+    "plugins": [ "theme-default" ],
+    "pluginsConfig": {
+        "theme-default": { "url": "https://github.com/ThomasHagenJohansen/theme-default" }
     }
 }
