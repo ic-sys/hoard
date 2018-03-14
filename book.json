@@ -1,3 +1,9 @@
 {
-    "plugins": ["insert-logo"]
+    "plugins": ["insert-logo-link", "another plugin 1", "another plugin 2"],
+    "pluginsConfig": {
+        "insert-logo-link": {
+            "src": "logo.png",
+            "url": ""
+        }
+    }
 }
