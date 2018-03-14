@@ -5,8 +5,8 @@
         "src": "logo.png",
         "url": ""
         }
-    }
+    },
     
-    { "styles": { "website": "styles/website.css"} }
+    "styles": { "website": "styles/website.css"}
     
 }
