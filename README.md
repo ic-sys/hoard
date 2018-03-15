@@ -1,4 +1,4 @@
 # Welcome..
 
-Find the information you need
+Find all the information you need
 
