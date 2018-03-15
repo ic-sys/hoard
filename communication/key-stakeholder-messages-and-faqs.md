@@ -1,6 +1,5 @@
-[Home](../Home)
+# Key stakeholder messages & FAQs
 
-#Key stakeholder messages & FAQs
 This is a collection of our key stakeholder messages. It is meant as a guide to the way we communicate with our community on common topics and questions. It is constantly evolving and should be updated as more issues and topics requiring responses come up.
 
 * [What is Hoard and why did we develop it?](KeyStakeholderMessages/WhatIsHoard)
@@ -14,10 +13,13 @@ This is a collection of our key stakeholder messages. It is meant as a guide to 
 * [Hoard ICO](KeyStakeholderMessages/ICO)
 * [Further details](KeyStakeholderMessages/Details)
 
-##Other resources
+## Other resources
 
 * [FAQs](KeyStakeholderMessages/FAQs)
 * [Do's and don't's: A guide for communicating with our community](KeyStakeholderMessages/DosDonts)
 * [Guide: Talking about HRD token or exchanges](KeyStakeholderMessages/TokenTalk)
 * [Quotes about Hoard](KeyStakeholderMessages/Quotes)
 * [One-sentence answers/descriptions to common questions/concepts](KeyStakeholderMessages/Oneliners)
+
+
+
