@@ -11,5 +11,4 @@
 ## Communication
 
 * [Key stakeholder messages & FAQs](communication/key-stakeholder-messages-and-faqs.md)
-* [Brand guidelines](communication/brand-guidelines.md)
 
