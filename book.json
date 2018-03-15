@@ -1,6 +1,6 @@
 {
-    "plugins": [ "theme-default" ],
+    "plugins": [ "theme-hoard" ],
     "pluginsConfig": {
-        "theme-default": { "url": "https://github.com/ThomasHagenJohansen/theme-default" }
+        "theme-hoard": { "url": "https://github.com/ThomasHagenJohansen/theme-hoard" }
     }
 }
