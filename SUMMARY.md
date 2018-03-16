@@ -2,15 +2,18 @@
 
 ## General
 
-* [Executive summary](general/executive-summary.md)
-* [What is Hoard?](README.md)
-* atest
+* [What is Hoard?](general/executive-summary.md)
+* [Who are the Hoard team?](README.md)
+* What will it take for this project to be successful?
+* What makes Hoard different from other projects?
 
 ## Token sale
 
 ## For game developers
 
-* Test
+* Why would developers/publishers use Hoard?
+* How do I use Hoard?
+* Do you have a Proof of Concept?
 
 ## For gamers
 
