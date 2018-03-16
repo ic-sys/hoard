@@ -18,6 +18,8 @@
 
 ## I want to sell virtual items. How does Hoard help me?
 
+* asdfdsaf
+
 ## Tech
 
 ## About HRD token
