@@ -17,11 +17,12 @@
 
 ## For gamers
 
-* [Key stakeholder messages & FAQs](communication/key-stakeholder-messages-and-faqs.md)
+* [What's so great about true ownership of virtual items?](communication/key-stakeholder-messages-and-faqs.md)
 
 ## I want to sell virtual items. How does Hoard help me?
 
-* asdfdsaf
+* What is the opportunity for virtual employment?
+* What is the Hoard marketplace and why should I use it?
 
 ## Tech
 
